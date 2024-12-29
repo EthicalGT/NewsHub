@@ -1,0 +1,1 @@
+You have to manually create mysql database with name newssite and then import this sql file and you're ready to go!
