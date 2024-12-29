@@ -8,7 +8,7 @@
 ### 1. User Features  
 - **View Latest News:** Browse and stay updated with the newest articles.  
 - **Feedback System:** Send feedback or comments on news articles.  
-- **Responsive Design:** Accessible on desktops, tablets, and mobile devices.  
+- **Responsive Design:** Accessible on desktops.  
 
 ### 2. Admin Features  
 - **Add News:** Easily create and publish new articles with headlines, descriptions, and images.  
